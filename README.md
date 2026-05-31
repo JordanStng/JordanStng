@@ -1,7 +1,6 @@
 ## Hey :)
 
-I build AI-powered apps for health, food, and self-improvement.
-Full-stack, cross-platform, and pretty much non-stop.
+I build apps pretty much non-stop.
 
 Everything I make lives under **Purizu**.
 PurizuLabs is the professional home (currently in the works), and [purizu.xyz](https://purizu.xyz) is my
