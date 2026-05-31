@@ -1,28 +1,32 @@
 ## Jordan
 
-Business Informatics @ HTW Berlin. I build products where clean
-design meets software that actually does something.
+I build AI-powered apps for health, food, and self-improvement.
+Full-stack, cross-platform, and pretty much non-stop.
 
-Everything lives under **Purizu** ([purizu.xyz](https://purizu.xyz)),
-named after the Japanese word for prism. One source, many surfaces.
+Everything I make lives under **Purizu**.
+PurizuLabs is the professional home (currently in the works), and [purizu.xyz](https://purizu.xyz) is my
+sketchbook, where I write and prototype in public.
 
-### Currently building
+### What I'm building
 
-**PandaPage** · Website-as-a-Service for small businesses.
-Co-founding with two friends, getting people online without the
-usual friction.
-→ [pandapage-link]
+**WhatsMySkincare** · a skincare recommendation platform with its own
+ingredient database, scraper, backend, and admin layer. My
+longest-running product and the subject of my bachelor's thesis.
+→ [whatsmyskincare.com](https://whatsmyskincare.com)
 
-**Purizu** · My sketchbook and lab. Writing, prototyping, figuring
-things out in public.
-→ [purizu.xyz](https://purizu.xyz)
+**PandaPage** · Website-as-a-Service, the studio I'm building with two
+friends to get small businesses online without the usual friction.
+→ [pandapage.de](https://pandapage.de)
 
-### Stack
+### How I work
 
-`TypeScript` · `React` · `Next.js` · `SwiftUI` · `Convex`
+AI is a default tool in almost everything I build, not a sticker on
+top: LLM matching, model benchmarks, photo analysis, automated data
+validation.
 
-Most of my repos are private (client and early-stage work), so the
-contribution graph tells the story better than the repo list.
+Most of my repos are private (products and early-stage work), so the
+contribution graph tells the real story: something new every few weeks,
+since 2018.
 
 ### Reach me
 
