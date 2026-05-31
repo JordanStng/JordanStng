@@ -12,9 +12,8 @@ sketchbook, where I write and prototype in public.
 ingredient database, scraper, backend, and admin layer. My
 longest-running product and the subject of my bachelor's thesis.
 
-🐼**PandaPage** · Website-as-a-Service, the studio I'm building with two
+🐼 [**PandaPage**](https://pandapage.de) · Website-as-a-Service, the studio I'm building with two
 friends to get small businesses online without the usual friction.
-→ [pandapage.de](https://pandapage.de)
 
 And much more.
 
