@@ -1,4 +1,4 @@
-## Jordan
+## Hey :)
 
 I build AI-powered apps for health, food, and self-improvement.
 Full-stack, cross-platform, and pretty much non-stop.
